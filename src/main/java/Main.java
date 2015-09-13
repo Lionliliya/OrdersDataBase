@@ -8,7 +8,7 @@ public class Main {
     private static final String DB_DRIVER = "com.mysql.jdbc.Driver";
     private static final String DB_CONNECTION = "jdbc:mysql://localhost:3306/Ordersdb";
     private static final String DB_USER = "root";
-    private static final String DB_PASSWORD = "123_lion_123";
+    private static final String DB_PASSWORD = "";
 
     private static final String CREATE_TABLE_Client = "CREATE TABLE IF NOT EXISTS Clients (" +
             "id INT NOT NULL AUTO_INCREMENT PRIMARY KEY," +
